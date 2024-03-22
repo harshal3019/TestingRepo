@@ -1,0 +1,325 @@
+
+
+1.Binary Global Ltd
+
+->Head of the Company*
+->Head of the Company Title*
+->Company Type*
+->PAN*
+->Partner Type*
+Point Matrix
+
+1. Customer Base *
+ 5-100
+ 100-200
+ 200-400
+ 400-500
+3. Field Sales Team India *
+ 1-5 Reps
+ 1-15 Reps
+ 1-25 Reps
+ 1-10 Reps
+
+4. Presales manager/Executives 
+ 1-2 Reps
+ 1-4 Reps
+ 1-8 Reps
+ 1-10 Reps
+
+5. Vertical Client Base *
+ Manufacturing
+ BFSI
+ Healthhcare
+ Pharmaceutical
+ Education
+ Infrastructure
+ Government
+ Smart City
+
+6. City Presence *
+ 1-2
+ 1-4
+ 1-8
+ 1-10
+
+7. Company Turnover- 2019 - 20 *
+ 1-5 Cr.
+ 5-15 Cr.
+ 15-50 Cr.
+ 50-100 Cr.
+ 100-150 Cr.
+ 150-250 Cr.
+ 250-Above. Cr.
+
+8. Data Center Business Done in Past 3 years 
+ 5-10L
+ 10-50L
+ 50-100L
+ 1-2 Cr.
+ 2-5 Cr.
+ 5-10 Cr.
+
+9. Cloud Services Sold in past 3 Years 
+ 5-10L
+ 10-50L
+ 50-100L
+ 1-2 Cr.
+ 2-5 Cr.
+ 5-10 Cr.
+
+10. Last Year Bottom Line 2019-20 *
+ 5-20L
+ 20-50L
+ 50-100L
+ 1-2 Cr.
+ 2-4 Cr.
+ 4-8 Cr.
+Partner Type :
+---select-----
+
+partner payment terms :
+---select---
+==============================================================================]
+
+
+2)Cloudstrats
+ ->Head of the Company*
+->Head of the Company Title*
+->Company Type*
+->PAN*
+->Partner Type*
+Point Matrix
+
+1. Customer Base *
+ 5-100
+ 100-200
+ 200-400
+ 400-500
+3. Field Sales Team India *
+ 1-5 Reps
+ 1-15 Reps
+ 1-25 Reps
+ 1-10 Reps
+
+4. Presales manager/Executives 
+ 1-2 Reps
+ 1-4 Reps
+ 1-8 Reps
+ 1-10 Reps
+
+5. Vertical Client Base *
+ Manufacturing
+ BFSI
+ Healthhcare
+ Pharmaceutical
+ Education
+ Infrastructure
+ Government
+ Smart City
+
+6. City Presence *
+ 1-2
+ 1-4
+ 1-8
+ 1-10
+
+7. Company Turnover- 2019 - 20 *
+ 1-5 Cr.
+ 5-15 Cr.
+ 15-50 Cr.
+ 50-100 Cr.
+ 100-150 Cr.
+ 150-250 Cr.
+ 250-Above. Cr.
+
+8. Data Center Business Done in Past 3 years 
+ 5-10L
+ 10-50L
+ 50-100L
+ 1-2 Cr.
+ 2-5 Cr.
+ 5-10 Cr.
+
+9. Cloud Services Sold in past 3 Years 
+ 5-10L
+ 10-50L
+ 50-100L
+ 1-2 Cr.
+ 2-5 Cr.
+ 5-10 Cr.
+
+10. Last Year Bottom Line 2019-20 *
+ 5-20L
+ 20-50L
+ 50-100L
+ 1-2 Cr.
+ 2-4 Cr.
+ 4-8 Cr.
+
+Partner Type :
+---select-----
+
+partner payment terms :
+---select---
+===========================================================================
+3) GLOBTIER INFOTECH PRIVATE LIMITED
+
+->Head of the Company*
+->Head of the Company Title*
+->Company Type*
+->PAN*
+->Partner Type*
+Point Matrix
+
+1. Customer Base *
+ 5-100
+ 100-200
+ 200-400
+ 400-500
+. Field Sales Team India *
+ 1-5 Reps
+ 1-15 Reps
+ 1-25 Reps
+ 1-10 Reps
+
+4. Presales manager/Executives 
+ 1-2 Reps
+ 1-4 Reps
+ 1-8 Reps
+ 1-10 Reps
+
+5. Vertical Client Base *
+ Manufacturing
+ BFSI
+ Healthhcare
+ Pharmaceutical
+ Education
+ Infrastructure
+ Government
+ Smart City
+
+6. City Presence *
+ 1-2
+ 1-4
+ 1-8
+ 1-10
+
+7. Company Turnover- 2019 - 20 *
+ 1-5 Cr.
+ 5-15 Cr.
+ 15-50 Cr.
+ 50-100 Cr.
+ 100-150 Cr.
+ 150-250 Cr.
+ 250-Above. Cr.
+
+8. Data Center Business Done in Past 3 years 
+ 5-10L
+ 10-50L
+ 50-100L
+ 1-2 Cr.
+ 2-5 Cr.
+ 5-10 Cr.
+
+9. Cloud Services Sold in past 3 Years 
+ 5-10L
+ 10-50L
+ 50-100L
+ 1-2 Cr.
+ 2-5 Cr.
+ 5-10 Cr.
+
+10. Last Year Bottom Line 2019-20 *
+ 5-20L
+ 20-50L
+ 50-100L
+ 1-2 Cr.
+ 2-4 Cr.
+ 4-8 Cr.
+
+Partner Type :
+---select-----
+
+partner payment terms :
+---select---
+================================================================================
+
+4) KARVIN INFOTECH PRIVATE LIMITED
+->Head of the Company*
+->Head of the Company Title*
+->Company Type*
+->PAN*
+->Partner Type*
+Point Matrix
+
+1. Customer Base *
+ 5-100
+ 100-200
+ 200-400
+ 400-500
+3. Field Sales Team India *
+ 1-5 Reps
+ 1-15 Reps
+ 1-25 Reps
+ 1-10 Reps
+
+4. Presales manager/Executives 
+ 1-2 Reps
+ 1-4 Reps
+ 1-8 Reps
+ 1-10 Reps
+5. Vertical Client Base *
+ Manufacturing
+ BFSI
+ Healthhcare
+ Pharmaceutical
+ Education
+ Infrastructure
+ Government
+ Smart City
+
+6. City Presence *
+ 1-2
+ 1-4
+ 1-8
+ 1-10
+
+7. Company Turnover- 2019 - 20 *
+ 1-5 Cr.
+ 5-15 Cr.
+ 15-50 Cr.
+ 50-100 Cr.
+ 100-150 Cr.
+ 150-250 Cr.
+ 250-Above. Cr.
+
+8. Data Center Business Done in Past 3 years 
+ 5-10L
+ 10-50L
+ 50-100L
+ 1-2 Cr.
+ 2-5 Cr.
+ 5-10 Cr.
+
+9. Cloud Services Sold in past 3 Years 
+ 5-10L
+ 10-50L
+ 50-100L
+ 1-2 Cr.
+ 2-5 Cr.
+ 5-10 Cr.
+
+10. Last Year Bottom Line 2019-20 *
+ 5-20L
+ 20-50L
+ 50-100L
+ 1-2 Cr.
+ 2-4 Cr.
+ 4-8 Cr.
+
+Partner Type :
+---select-----
+
+partner payment terms :
+---select---
+
